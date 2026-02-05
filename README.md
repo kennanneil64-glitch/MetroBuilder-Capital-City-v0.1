@@ -18,3 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/1UVXv0W_t4pj88zBMx9-JUe
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+Still work on game glitch in buildings code not working right 
